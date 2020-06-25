@@ -41,9 +41,7 @@ public class HolaMundo {
 		int x = 6, y;
 	    y = x++;
 	    //System.out.println(y + ", " +x);
-	    
-	    
-	    
+	      
 		
 	}
 
