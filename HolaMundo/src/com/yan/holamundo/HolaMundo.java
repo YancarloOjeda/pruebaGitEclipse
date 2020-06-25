@@ -44,5 +44,9 @@ public class HolaMundo {
 	      
 		
 	}
+	
+	public int Telefono() {
+		return 0;
+	}
 
 }
